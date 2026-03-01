@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "日本ブレイク工業 社歌",
+  "base_artist": "萬Z(量産型)",
+  "createdAt": "2026-03-01T14:42:54.042447Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "日本ブレイク工業 社歌",
+      "artist": "萬Z(量産型)",
+      "has_synced": false,
+      "path": "select/01_日本ブレイク工業_社歌_萬Z(量産型).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "日本ブレイク工業 社歌",
+      "artist": "萬Z(量産型)",
+      "has_synced": false,
+      "path": "select/pl_01_日本ブレイク工業_社歌_萬Z(量産型).txt"
+    }
+  ]
+}
